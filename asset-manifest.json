@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/poster%20/static/css/main.ecd60cee.css",
-    "main.js": "/poster%20/static/js/main.394114f1.js",
-    "static/media/backdrop1.png": "/poster%20/static/media/backdrop1.23fad1b90f5044e3f198.png",
-    "static/media/lighter_backdrop1.png": "/poster%20/static/media/lighter_backdrop1.f2f8871773ae6e6d859a.png",
-    "static/media/p2.webp": "/poster%20/static/media/p2.7fa758ce05882efa9f99.webp",
-    "static/media/p1.webp": "/poster%20/static/media/p1.c0325bea49f2620cb630.webp",
-    "static/media/p3.webp": "/poster%20/static/media/p3.ca30187eeddc8d68e705.webp",
-    "static/media/Next.png": "/poster%20/static/media/Next.e0cc548b52ed71c83731.png",
-    "static/media/SapCSlogo.png": "/poster%20/static/media/SapCSlogo.a9df80b269366d87e86f.png",
-    "static/media/node.png": "/poster%20/static/media/node.9fea1c7da2bd42ab93bf.png",
-    "static/media/React.webp": "/poster%20/static/media/React.2a0cac33f155e4a27216.webp",
-    "static/media/SapLogoCut.png": "/poster%20/static/media/SapLogoCut.270606a4a4fb433eb382.png",
-    "index.html": "/poster%20/index.html",
-    "main.ecd60cee.css.map": "/poster%20/static/css/main.ecd60cee.css.map",
-    "main.394114f1.js.map": "/poster%20/static/js/main.394114f1.js.map"
+    "main.css": "/poster%20%20/static/css/main.e81cf6ce.css",
+    "main.js": "/poster%20%20/static/js/main.899ed5c6.js",
+    "static/media/backdrop1.png": "/poster%20%20/static/media/backdrop1.23fad1b90f5044e3f198.png",
+    "static/media/lighter_backdrop1.png": "/poster%20%20/static/media/lighter_backdrop1.f2f8871773ae6e6d859a.png",
+    "static/media/p2.webp": "/poster%20%20/static/media/p2.7fa758ce05882efa9f99.webp",
+    "static/media/p1.webp": "/poster%20%20/static/media/p1.c0325bea49f2620cb630.webp",
+    "static/media/p3.webp": "/poster%20%20/static/media/p3.ca30187eeddc8d68e705.webp",
+    "static/media/Next.png": "/poster%20%20/static/media/Next.e0cc548b52ed71c83731.png",
+    "static/media/SapCSlogo.png": "/poster%20%20/static/media/SapCSlogo.a9df80b269366d87e86f.png",
+    "static/media/node.png": "/poster%20%20/static/media/node.9fea1c7da2bd42ab93bf.png",
+    "static/media/React.webp": "/poster%20%20/static/media/React.2a0cac33f155e4a27216.webp",
+    "static/media/SapLogoCut.png": "/poster%20%20/static/media/SapLogoCut.270606a4a4fb433eb382.png",
+    "index.html": "/poster%20%20/index.html",
+    "main.e81cf6ce.css.map": "/poster%20%20/static/css/main.e81cf6ce.css.map",
+    "main.899ed5c6.js.map": "/poster%20%20/static/js/main.899ed5c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecd60cee.css",
-    "static/js/main.394114f1.js"
+    "static/css/main.e81cf6ce.css",
+    "static/js/main.899ed5c6.js"
   ]
 }
